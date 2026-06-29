@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0766-toeplitz-matrix) |
 | [0896-monotonic-array](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0997-find-the-town-judge) |
 ## Greedy
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0645-set-mismatch) |
+| [0997-find-the-town-judge](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0997-find-the-town-judge) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0733-flood-fill](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0766-toeplitz-matrix) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
