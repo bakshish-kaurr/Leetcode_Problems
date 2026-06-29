@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0541-reverse-string-ii) |
+| [0680-valid-palindrome-ii](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0551-student-attendance-record-i) |
+| [0680-valid-palindrome-ii](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 ## Array
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0605-can-place-flowers) |
+| [0680-valid-palindrome-ii](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 ## Math
 |  |
 | ------- |
