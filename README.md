@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0766-toeplitz-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -57,4 +58,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
