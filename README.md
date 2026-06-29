@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0766-toeplitz-matrix) |
+| [0896-monotonic-array](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0896-monotonic-array) |
 ## Greedy
 |  |
 | ------- |
