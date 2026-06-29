@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0541-reverse-string-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0551-student-attendance-record-i) |
 ## Array
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0997-find-the-town-judge) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
