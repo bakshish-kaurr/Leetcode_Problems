@@ -16,8 +16,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0605-can-place-flowers) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
