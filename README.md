@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0704-binary-search) |
 ## Depth-First Search
 |  |
