@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0605-can-place-flowers](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0645-set-mismatch) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0645-set-mismatch](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0997-find-the-town-judge](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0997-find-the-town-judge) |
 ## Bit Manipulation
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0392-is-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
