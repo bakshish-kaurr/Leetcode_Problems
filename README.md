@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0409-longest-palindrome) |
+| [0434-number-of-segments-in-a-string](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0551-student-attendance-record-i) |
 | [0680-valid-palindrome-ii](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
