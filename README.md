@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0228-summary-ranges) |
 | [0463-island-perimeter](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0645-set-mismatch) |
