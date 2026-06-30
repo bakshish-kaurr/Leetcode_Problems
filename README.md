@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0551-student-attendance-record-i) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
+| [0383-ransom-note](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0645-set-mismatch](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0997-find-the-town-judge](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0997-find-the-town-judge) |
 ## Bit Manipulation
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
