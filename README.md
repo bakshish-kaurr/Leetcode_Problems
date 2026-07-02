@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0326-power-of-three) |
 ## Linked List
 |  |
 | ------- |
