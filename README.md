@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0383-ransom-note) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
