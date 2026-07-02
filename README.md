@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0779-k-th-symbol-in-grammar](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0645-set-mismatch) |
+| [0779-k-th-symbol-in-grammar](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0342-power-of-four) |
+| [0779-k-th-symbol-in-grammar](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Linked List
 |  |
 | ------- |
