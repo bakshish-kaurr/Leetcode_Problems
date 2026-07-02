@@ -11,24 +11,16 @@
 class Solution {
 public:
     ListNode* start;
-
-    bool check(ListNode* head) {
-        if (head == NULL)
-            return true;
-
-        if (!check(head->next))
-            return false;
-
-        if (head->val != start->val)
-            return false;
-
-        start = start->next;
-
+    bool isPalin(ListNode* head)
+    {
+        if (head==NULL)
         return true;
+        bool check=isPalin(head->next) & head->val==start->val;
+        start=start->next;
+        return check;
     }
-
     bool isPalindrome(ListNode* head) {
-        start = head;
-        return check(head);
+        start=head;
+        return isPalin(head);
     }
 };
