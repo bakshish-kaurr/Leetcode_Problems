@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
@@ -111,4 +112,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
