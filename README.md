@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0237-delete-node-in-a-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
 |  |
 | ------- |
