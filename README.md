@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0039-combination-sum) |
 | [0219-contains-duplicate-ii](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0228-summary-ranges) |
 | [0463-island-perimeter](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0463-island-perimeter) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0039-combination-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
