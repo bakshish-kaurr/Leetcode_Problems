@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0463-island-perimeter](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
@@ -176,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
