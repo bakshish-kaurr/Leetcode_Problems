@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0463-island-perimeter](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0733-flood-fill) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0733-flood-fill) |
 ## Matrix
@@ -186,11 +188,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
