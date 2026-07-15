@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0551-student-attendance-record-i) |
 | [0680-valid-palindrome-ii](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Array
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0463-island-perimeter](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0733-flood-fill) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0039-combination-sum) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Binary Tree
 |  |
 | ------- |
@@ -200,4 +204,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0988-smallest-string-starting-from-leaf) |
 <!---LeetCode Topics End-->
