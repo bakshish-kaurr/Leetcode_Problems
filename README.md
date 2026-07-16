@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0551-student-attendance-record-i) |
 | [0680-valid-palindrome-ii](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
+| [0720-longest-word-in-dictionary](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0720-longest-word-in-dictionary) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Array
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0704-binary-search) |
+| [0720-longest-word-in-dictionary](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0720-longest-word-in-dictionary) |
 | [0733-flood-fill](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0766-toeplitz-matrix) |
 | [0896-monotonic-array](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0896-monotonic-array) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0645-set-mismatch) |
+| [0720-longest-word-in-dictionary](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0720-longest-word-in-dictionary) |
 | [0977-squares-of-a-sorted-array](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0645-set-mismatch) |
+| [0720-longest-word-in-dictionary](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0720-longest-word-in-dictionary) |
 | [0997-find-the-town-judge](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0997-find-the-town-judge) |
 ## Bit Manipulation
 |  |
@@ -209,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0988-smallest-string-starting-from-leaf) |
+## Trie
+|  |
+| ------- |
+| [0720-longest-word-in-dictionary](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0720-longest-word-in-dictionary) |
 <!---LeetCode Topics End-->
