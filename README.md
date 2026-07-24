@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0645-set-mismatch) |
+| [0695-max-area-of-island](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0704-binary-search) |
 | [0720-longest-word-in-dictionary](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0720-longest-word-in-dictionary) |
 | [0733-flood-fill](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0733-flood-fill) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0733-flood-fill) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Breadth-First Search
@@ -118,12 +120,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0766-toeplitz-matrix) |
 ## Graph Theory
@@ -236,4 +240,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
