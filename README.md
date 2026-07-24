@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0733-flood-fill) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0733-flood-fill) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0207-course-schedule) |
 | [0997-find-the-town-judge](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0997-find-the-town-judge) |
 ## Dynamic Programming
 |  |
@@ -241,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0695-max-area-of-island) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
