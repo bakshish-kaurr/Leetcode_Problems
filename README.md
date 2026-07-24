@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0039-combination-sum) |
+| [0200-number-of-islands](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0228-summary-ranges) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0733-flood-fill) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -114,11 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0766-toeplitz-matrix) |
@@ -228,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0098-validate-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/bakshish-kaurr/Leetcode_Problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
